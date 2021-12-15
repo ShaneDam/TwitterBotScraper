@@ -1,7 +1,7 @@
 # TwitterBotScraper
 Built a little scraper bot that analyzes the latest 1000 tweets on a desired search term. It uses Selenium and Chrome web driver to gather the data and returns 2 word clouds (tweets’ text &amp; associated #’s; distinguishable by their white &amp; black background color) along with a pie chart of a sentiment analysis and a table with the total number of retweets, replies and likes grouped by the sentiments (named RRL_table).
 
-#References:
+# References:
 1.	Selenium (Chrome driver) installment:
 https://pypi.org/project/selenium/ 
 https://chromedriver.chromium.org/downloads
